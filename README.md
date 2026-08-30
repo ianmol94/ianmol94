@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Anmol Singh 👋
 
-<!--
-**ianmol94/ianmol94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer | DSA | AI & LLMs
 
-Here are some ideas to get you started:
+I'm a developer interested in **Data Structures & Algorithms, AI/LLMs, and backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Solving DSA problems with **C++**
+- 🤖 Building AI applications with **Python**
+- 🔎 Exploring **RAG, embeddings & semantic search**
+- 🗄️ Working with **Qdrant & vector databases**
+- 🎥 Building an **AI-powered DSA revision assistant**
+- 🐧 Daily driver: **Arch Linux**
+
+### 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript
+**AI:** LLMs, RAG, Embeddings  
+**Database:** Qdrant, MongoDB
+**Tools:** Git, GitHub, VS Code, Linux
+
+### 🧠 Currently Learning
+
+DSA • Dynamic Programming • Backend Development • LLM Applications
+
+### ⚡ Beyond Code
+
+🏋️ Gym • 🏃 Running
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ianmol94)
