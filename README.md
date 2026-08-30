@@ -13,9 +13,9 @@ I'm a developer interested in **Data Structures & Algorithms, AI/LLMs, and backe
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++, Python, JavaScript
+**Languages:** C++, Python  
 **AI:** LLMs, RAG, Embeddings  
-**Database:** Qdrant, MongoDB
+**Database:** Qdrant  
 **Tools:** Git, GitHub, VS Code, Linux
 
 ### 🧠 Currently Learning
@@ -26,6 +26,8 @@ DSA • Dynamic Programming • Backend Development • LLM Applications
 
 🏋️ Gym • 🏃 Running
 
----
+### 🔗 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ianmol94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol94/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://letshireme.vercel.app/)
